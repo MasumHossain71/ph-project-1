@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Secular One', sans-serif;
 }
 section{
     height: 500px;
@@ -20,14 +20,15 @@ h1{
     font-size: 50px;
 }
 h1 span{
-    color: orange;
+    color: #fc2145;
 }
 .half-width img{
     width: 100%;
+    margin-top: 40px;
 }
 .anchor-button{
     text-decoration: none;
-    background: linear-gradient(45deg, lightsalmon, tomato);
+    background: linear-gradient(45deg, rgb(255, 122, 166), #fc2145);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
@@ -58,7 +59,7 @@ h2{
     height: 80%;
 }
 #full-stack{
-    border-left: 7px solid tomato;
+    border-left: 7px solid #fc2145;
 }
 #baby-web{
     border-left: 7px solid;
